@@ -30,20 +30,21 @@ Front End Environment / Web Technologies
 	C# , HTML, CSS, JavaScript, jQuery
 BACK END ENVIRONMENT
 	SQL Server 2014
+
 Here are the glimpses of the project:
-Login Page
+
 ![login](https://user-images.githubusercontent.com/53931783/180299694-97f68a69-5ea4-49d9-a221-45b3b820f04b.png)
-User Interface
+
 ![user](https://user-images.githubusercontent.com/53931783/180300064-64a0806d-4304-4894-8115-563b7325941b.png)
-Amin Interface
+
 ![admin](https://user-images.githubusercontent.com/53931783/180300227-0e6083bd-c566-49a8-a515-6c46a2d5d7cd.png)
-Issued Books
+
 ![issued-book](https://user-images.githubusercontent.com/53931783/180300319-fc1ff397-efff-46d8-9ceb-17393a7d3c79.png)
-Modify Book
+
 ![modify-book](https://user-images.githubusercontent.com/53931783/180300430-2f6b946a-26e9-4f14-bb64-83498d10c7cd.png)
-Book bank
+
 ![book-bank](https://user-images.githubusercontent.com/53931783/180300490-88f1c75d-fc86-4a01-9d95-af6fb095da72.png)
-Book Return
+
 ![book-return](https://user-images.githubusercontent.com/53931783/180300548-17330f44-3874-44d6-a39f-bdbced4ba5c1.png)
 
 
